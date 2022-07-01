@@ -5,6 +5,7 @@
 Author : Prasad Patharvat
 
 Algorithm Used : 
+
                 1. Logistic Regression
 
                 2. Naive Bayes Classification
